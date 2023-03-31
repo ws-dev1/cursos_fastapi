@@ -1,2 +1,3 @@
 
-/cursos01/.env
+/cursos01/*.env
+/cursos01/*poetry.lock
