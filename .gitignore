@@ -1,3 +1,4 @@
 
-/curso01/*.env
-/curso01/*.lock
+curso01/.env
+curso01/.lock
+.env
