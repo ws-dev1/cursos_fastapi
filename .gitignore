@@ -6,3 +6,4 @@ curso01/.lock
 env.bak/
 curso02/.env
 curso02/poetry.lok
+poetry.lock
