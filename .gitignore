@@ -4,3 +4,5 @@ curso01/.lock
 .env
 .env/
 env.bak/
+curso02/.env
+curso02/poetry.lok
